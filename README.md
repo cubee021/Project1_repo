@@ -1,3 +1,13 @@
-# Project1
+# 원신 보스전 모작
++ 팀 프로젝트(2인)
++ 개발 기간 : 2025.07.09 ~ 2025.08.01 [약 1달]
++ 장르 : 오픈 월드 액션 어드벤처
++ 사용 툴 : Unreal Engine 5.6 / GitHub / Blender
 
-Developed with Unreal Engine 5
+<br/>
+
+## 🎞️ 시연 영상
+
+<br/>
+
+## 📊 간트 차트
